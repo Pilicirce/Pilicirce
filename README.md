@@ -7,3 +7,8 @@
 🤔 I’m looking for help with new dev skills and challenges
 
 📩 How to reach me: pilar.sm02@gmail.com
+
+
+
+
+
