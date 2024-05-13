@@ -12,7 +12,7 @@
 :page_facing_up: [mi CV](https://www.linkedin.com/in/pilar-sol%C3%ADs-mart%C3%ADnez-18720b54/overlay/1713712028988/single-media-viewer/?profileId=ACoAAAtr4zcBQkC3UJwMiW8lFfzjwDIDuZvCTgY)<br />
 
 <h2>Languages and Tools</h2>
-Java | Springboot | DBeaber | My SQL | MOngoDB | API-Rest | Postman | JavaScript | TypeScript | HTML | CSS | Angular  <br />
+Java | Springboot | DBeaber | My SQL | MOngoDB | API-Rest | Postman | JavaScript | TypeScript | HTML | CSS | Angular | Agile methodologies <br />
 <br /> 
 <p style="display: block" >&nbsp;<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=pilicirce&show_icons=true&locale=en&layout=compact" alt="pilicirce" /></p>
 
