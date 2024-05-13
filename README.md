@@ -8,6 +8,8 @@
 
 📩 How to reach me: pilar.sm02@gmail.com
 
+[Linkedin Pilar Solis Martinez] (https://www.linkedin.com/in/pilar-sol%C3%ADs-mart%C3%ADnez-18720b54/)
+
 
 
 
