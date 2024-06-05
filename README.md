@@ -11,6 +11,9 @@
 :mag: [Linkedin Pilar Solis Martinez](https://www.linkedin.com/in/pilar-sol%C3%ADs-mart%C3%ADnez-18720b54/)<br />
 :page_facing_up: [mi CV](https://www.linkedin.com/in/pilar-sol%C3%ADs-mart%C3%ADnez-18720b54/overlay/1713712028988/single-media-viewer/?profileId=ACoAAAtr4zcBQkC3UJwMiW8lFfzjwDIDuZvCTgY)<br />
 
+:video_game: ![mi Codewars](https://www.codewars.com/users/pili_circe/badges/micro) 
+
+
 <h2>Languages and Tools</h2>
 Java | Springboot | DBeaber | MySQL | MongoDB | API-Rest | Postman | JavaScript | TypeScript | HTML | CSS | Angular | Agile methodologies <br />
 <br /> 
