@@ -15,7 +15,7 @@
 
 
 <h2>Languages and Tools</h2>
-Java | Springboot | DBeaber | MySQL | MongoDB | API-Rest | Postman | JavaScript | TypeScript | HTML | CSS | Angular | Maven | POO | Agile methodologies <br />
+Java | Springboot | DBeaber | MySQL | MongoDB | JPA | API-Rest | Postman | JavaScript | TypeScript | HTML | CSS | Angular | Maven | POO | MVC | Agile methodologies <br />
 <br /> 
 <p style="display: block" >&nbsp;<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=pilicirce&show_icons=true&locale=en&layout=compact" alt="pilicirce" /></p>
 
