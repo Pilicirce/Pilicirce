@@ -13,6 +13,8 @@
 
 :video_game: Codewars   ![mi Codewars](https://www.codewars.com/users/pili_circe/badges/micro) 
 
+🎄 Advent of Code: https://adventofcode.com/2024/events
+
 
 <h2>Languages and Tools</h2>
 Java | Springboot | DBeaber | MySQL | MongoDB | JPA | API-Rest | Postman | JavaScript | TypeScript | HTML | CSS | Angular | Maven | POO | MVC | Agile methodologies <br />
