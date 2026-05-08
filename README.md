@@ -1,5 +1,7 @@
 # Hi there, 👋 my name is Pilar Solís Martínez
 
+<h3>Software Engineer with Functional Analysis Experience | Business & Tech Alignment </h3> 
+<br />
 💻 I am backend developer. I use mainly Java and Springboot, but also SQL, MongoDB, API-Rest, Postman, Agile methodologies... <br />
 🌱 I’m currently learning Frontend too: JavaScript, Typescript, HTML, CSS, Angular...<br />
 🤔 I’m looking for help with new dev skills and challenges<br />
